@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 #################################################################################
 #	 JSMinifier.py - Merge and compress JS files
 #    Copyright (C) <2011>  <keita kuroki: keita@hellokeita.in>
@@ -17,7 +19,6 @@
 #
 ################################################################################
 
-#!/usr/bin/env python
 import os
 import re
 import sys
